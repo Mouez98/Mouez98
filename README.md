@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mouez</h1>
-<h3 align="center">A self taught frontend developer from Tunisia</h3>
+<h3 align="center">A self taught frontend developer based in Tunisia</h3>
 
 - 🌱 I’m currently learning **NodeJs, MongoDb, GraphQl and Typescript**
 
