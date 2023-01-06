@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **NodeJs, MongoDb, GraphQl and Typescript**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-mouez98.vercel.app/](https://portfolio-mouez98.vercel.app/)
+- 👨‍💻 Here is a sample of my works [https://portfolio-mouez98.vercel.app/](https://portfolio-mouez98.vercel.app/)
 
-- 💬 Ask me about **React,JavaScript,Scss**
+- 💬 Ask me about **React,JavaScript,Scss,Typescript,MongoDB,NodeJs,Sequelize,NextJs**
 
 - 📫 How to reach me **Mouez.matoui@gmail.com**
 
